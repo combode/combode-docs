@@ -52,7 +52,7 @@ The options that you have to select are the following:
 
 In the image you will see the two options that you will have to select.
 
-![Options on Wallet Settings to select](https://github.com/combode/combode-docs/blob/master/Setup_a_Masternode_with_Ubuntu_16.04_VPS.png "Wallet Settings")
+![Options on Wallet Settings to select](https://raw.githubusercontent.com/combode/combode-docs/main/Setup_a_Masternode_with_Ubuntu_16.04_VPS.png "Wallet Settings")
 
 Press "OK" button. In order to enable the new options, you have to restart Combode wallet.
 
